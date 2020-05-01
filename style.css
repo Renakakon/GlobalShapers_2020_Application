@@ -102,19 +102,6 @@ opacity: 0;
  text-align: left;
 }
 
-@media (max-height: 560px) { 
-	.container { 
-		height: 400px;
-	}
-}
-
-@media (max-width: 400px) { 
-	.container { 
-		width: : 300px;
-	}
-}
-
-
 .card-white { 
  background-color: #D5E0E8;
  box-shadow: 1px 1px 16px rgb(0,0,0,0.1)
@@ -130,13 +117,13 @@ opacity: 0;
 
 @media (max-height: 815px) { 
 	.card-white { 
-		height: 250px;
+		height: 150px;
 	}
 }
 
 @media (max-width: 375px) { 
 	.cart-white { 
-		width: : 130px;
+		width: : 80px;
 	}
 
 .card-white img { 
