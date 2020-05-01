@@ -128,6 +128,17 @@ opacity: 0;
 
 }
 
+@media (max-height: 560) { 
+	.card-white { 
+		height: 80;
+	}
+}
+
+@media (max-width: 400) { 
+	.cart-white { 
+		width: : 120;
+	}
+
 .card-white img { 
  padding-top:20px;
  width: 180px;
@@ -137,17 +148,6 @@ opacity: 0;
  opacity: 1; 
 }
 
-@media (max-height: 560) { 
-	.card-white img { 
-		height: 80;
-	}
-}
-
-@media (max-width: 400) { 
-	.cart-white img { 
-		width: : 120;
-	}
-}
 
 .card-white p { 
  font-size: 15px;
