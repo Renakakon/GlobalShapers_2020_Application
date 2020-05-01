@@ -102,15 +102,15 @@ opacity: 0;
  text-align: left;
 }
 
-@media (max-height: 560) { 
+@media (max-height: 560px) { 
 	.container { 
-		height: 400;
+		height: 400px;
 	}
 }
 
-@media (max-width: 400) { 
+@media (max-width: 400px) { 
 	.container { 
-		width: : 300;
+		width: : 300px;
 	}
 }
 
