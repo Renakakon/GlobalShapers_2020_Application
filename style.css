@@ -115,16 +115,6 @@ opacity: 0;
 
 }
 
-@media (max-height: 815px) { 
-	.card-white { 
-		height: 150px;
-	}
-}
-
-@media (max-width: 375px) { 
-	.cart-white { 
-		width: : 80px;
-	}
 
 .card-white img { 
  padding-top:20px;
