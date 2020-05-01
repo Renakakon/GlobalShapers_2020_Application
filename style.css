@@ -137,6 +137,18 @@ opacity: 0;
  opacity: 1; 
 }
 
+@media (max-height: 560) { 
+	.card-white img { 
+		height: 80;
+	}
+}
+
+@media (max-width: 400) { 
+	.cart-white img { 
+		width: : 120;
+	}
+}
+
 .card-white p { 
  font-size: 15px;
  color: #00244D;
